@@ -9,4 +9,4 @@ Create a React Native app that consumes the [OpenCage Geocoding API](https://ope
 To submit, fork this repository and share the repo with lema.andrew@easymatatu.com.
 
 # Due Date
-Monday 3rd February, 2020 23:59
+Monday 17th February, 2020 23:59
